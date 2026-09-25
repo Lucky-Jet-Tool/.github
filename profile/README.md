@@ -49,12 +49,6 @@ The bot acts as the primary access point for current project updates.
 
 See how the Lucky Jet Telegram Bot looks and how the project can be accessed.
 
-<!--
-For an inline GitHub video player:
-open this README in the GitHub editor, drag 1.mp4 into this exact location,
-and replace the URL below with the generated github.com/user-attachments/assets/... URL.
--->
-
 https://github.com/Lucky-Jet-Tool/.github/blob/main/1.mp4
 
 If the video does not render directly inside the README, open it here:
@@ -134,17 +128,41 @@ No separate unknown executable or application needs to be downloaded from this G
 
 [![GO TO BOT](https://img.shields.io/badge/-GO_TO_BOT-229ED9?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/litluckyjetbot)
 
-## Documentation
+## Lucky Jet Project Resources
 
-Learn more about the project through the Lucky Jet documentation:
+This GitHub organization contains public resources related to **Lucky Jet Signals**, the **Lucky Jet Bot** and **Lucky Jet Predictor**.
 
-* [Lucky Jet Signals](./docs/lucky-jet-signals.md)
-* [Lucky Jet Bot](./docs/lucky-jet-bot.md)
-* [Lucky Jet Predictor](./docs/lucky-jet-predictor.md)
-* [How It Works](./docs/how-it-works.md)
-* [Lucky Jet FAQ](./docs/faq.md)
+Use the guides below to explore different parts of the project:
 
-[![GO TO BOT](https://img.shields.io/badge/-GO_TO_BOT-229ED9?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/litluckyjetbot)
+### Lucky Jet Signals Guide
+
+Learn how Lucky Jet signal-related information is organized and how to access project updates through Telegram.
+
+[Read about Lucky Jet Signals](https://github.com/Lucky-Jet-Tool/REPOSITORY-NAME/blob/main/docs/lucky-jet-signals.md)
+
+### Lucky Jet Telegram Bot
+
+Discover how the Lucky Jet Bot works, what information is available and how to open the project directly in Telegram.
+
+[Explore Lucky Jet Bot](https://github.com/Lucky-Jet-Tool/REPOSITORY-NAME/blob/main/docs/lucky-jet-bot.md)
+
+### Lucky Jet Predictor Information
+
+Read more about Lucky Jet Predictor-related content, analytical information and how it connects with the Telegram bot.
+
+[Learn about Lucky Jet Predictor](https://github.com/Lucky-Jet-Tool/REPOSITORY-NAME/blob/main/docs/lucky-jet-predictor.md)
+
+### How the Project Works
+
+Follow the step-by-step guide for accessing the bot and navigating available Lucky Jet project information.
+
+[How Lucky Jet Bot Works](https://github.com/Lucky-Jet-Tool/REPOSITORY-NAME/blob/main/docs/how-it-works.md)
+
+### Lucky Jet Questions & Answers
+
+Find answers to common questions about Lucky Jet Signals, Telegram access, predictor information and the project.
+
+[Open Lucky Jet FAQ](https://github.com/Lucky-Jet-Tool/REPOSITORY-NAME/blob/main/docs/faq.md)
 
 
 ---
